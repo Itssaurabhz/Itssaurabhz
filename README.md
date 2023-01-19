@@ -12,9 +12,9 @@
 ![Itssaurabh'z GitHub stats](https://github-readme-stats.vercel.app/api?username=itssaurabhz&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Itssaurabhz)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!--badges-->
 ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
