@@ -7,12 +7,11 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Itssaurabhz&theme=dark)](https://git.io/streak-stats)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=Itssaurabhz &color=green)
 
 ![Itssaurabh'z GitHub stats](https://github-readme-stats.vercel.app/api?username=itssaurabhz&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itssaurabhz&theme=tokyonight)
 
 <!--badges-->
 ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
