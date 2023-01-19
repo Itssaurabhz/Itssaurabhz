@@ -12,7 +12,7 @@
 ![Itssaurabh'z GitHub stats](https://github-readme-stats.vercel.app/api?username=itssaurabhz&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itssaurabhz&layout=compact&theme=vision-friendly-dark)](https://github.com/Itssaurabhz/github-readme-stats)
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vgkbrkbuj5daix2qlf6yym3lh4&count={count})
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vgkbrkbuj5daix2qlf6yym3lh4)
 <!--badges-->
 ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
