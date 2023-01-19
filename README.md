@@ -15,3 +15,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Itssaurabhz)](https://github.com/ryo-ma/github-profile-trophy)
+![Itssaurabh'z GitHub stats](https://github-readme-stats.vercel.app/api?username=itssaurabhz&show_icons=true&theme=radical)
