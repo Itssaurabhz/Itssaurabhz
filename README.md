@@ -11,5 +11,5 @@
 
 
 [![Itssaurabh'z GitHub stats](https://github-readme-stats.vercel.app/api?username=Itssaurabhz)](https://github.com/Itssaurabhz/github-readme-stats)
-![Itssaurabh'z GitHub stats](https://github-readme-stats.vercel.app/api?username=Itssaurabhz&show_icons=true&theme=radical)
+
 
