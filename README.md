@@ -9,8 +9,8 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
+stats.vercel.app/api?username=Itssaurabhz)](https://github.com/Itssaurabhz/github-readme-stats)
 
-[![Itssaurabh'z GitHub stats](https://github-readme-stats.vercel.app/api?username=Itssaurabhz)](https://github.com/Itssaurabhz/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
