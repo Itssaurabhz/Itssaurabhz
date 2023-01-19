@@ -13,3 +13,4 @@
 [![Itssaurabh'z GitHub stats](https://github-readme-stats.vercel.app/api?username=Itssaurabhz)](https://github.com/Itssaurabhz/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itssaurabhz&layout=compact)](https://github.com/Itssaurabhz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itssaurabhz)](https://github.com/itssaurabhz/github-readme-stats)
