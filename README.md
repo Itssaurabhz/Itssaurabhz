@@ -7,7 +7,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Itssaurabhz&theme=dark)](https://git.io/streak-stats)
 
-![](https://komarev.com/ghpvc/?username=Itssaurabhz &color=green)
+![](https://komarev.com/ghpvc/?username=itssaurabhz&color=green)
 
 ![Itssaurabh'z GitHub stats](https://github-readme-stats.vercel.app/api?username=itssaurabhz&show_icons=true&theme=radical)
 
