@@ -21,3 +21,4 @@
 ![Google Pay](https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vgkbrkbuj5daix2qlf6yym3lh4&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vgkbrkbuj5daix2qlf6yym3lh4&width={width})
