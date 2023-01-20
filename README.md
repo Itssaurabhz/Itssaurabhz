@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+account..+" alt="Typing SVG" /></a>:blush:
-• I’m currently working on web development...<br>:unamused:
+• I’m currently working on web development...<br>:palm_tree:
 • I’m currently learning css and java script...<br>:herb:
 • I'm currently improving my Skills....
 
