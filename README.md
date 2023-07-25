@@ -9,7 +9,7 @@
 
 ![](https://komarev.com/ghpvc/?username=itssaurabhz&color=green)
 
-![Itssaurabh'z GitHub stats](https://github-readme-stats.vercel.app/api?username=itssaurabhz&show_icons=true&theme=radical)
+
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vgkbrkbuj5daix2qlf6yym3lh4)
